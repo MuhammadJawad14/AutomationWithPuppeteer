@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer_project_cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  }
+  ,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^6.0.7",
+    "puppeteer": "^21.3.8"
+  }
+}
